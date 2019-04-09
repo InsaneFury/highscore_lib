@@ -1,0 +1,9 @@
+#Ignore bin
+highscore/[Bb]in/
+
+#Ignore obj
+highscore/[Oo]bj/
+
+#Ignore .vs except .suo
+**/.vs
+.vs\highscore\v15\!.suo
