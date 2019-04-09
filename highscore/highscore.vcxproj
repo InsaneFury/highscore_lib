@@ -115,6 +115,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="highscore.h" />
+    <ClInclude Include="ps.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="highscore.cpp" />
+    <ClCompile Include="ps.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
