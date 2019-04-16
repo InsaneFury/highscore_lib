@@ -7,7 +7,6 @@ PS::PS() {
 
 PS::~PS() {
 
-
 }
 
 void PS::setName(string name) {

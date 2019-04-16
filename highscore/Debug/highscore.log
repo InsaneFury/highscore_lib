@@ -1,0 +1,5 @@
+﻿  highscore.cpp
+c:\users\administrador\desktop\tp\highscore_lib\highscore\highscore.cpp(1): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  ps.cpp
+  Generando código...
+  highscore.vcxproj -> C:\Users\Administrador\Desktop\tp\highscore_lib\Debug\highscore.lib
